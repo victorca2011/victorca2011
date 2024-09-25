@@ -62,6 +62,6 @@
 
 ###
 
-<img align="left" height="150" src="https://i.imgur.com/uS7ZkHx.gif"  />
+<img align="left" height="350" src="https://i.imgur.com/uS7ZkHx.gif"  />
 
 ###
