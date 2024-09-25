@@ -62,10 +62,10 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/victorca2011/victorca2011/output/snake.svg" alt="Snake animation" />
+<img align="left" height="150" src="https://i.imgur.com/uS7ZkHx.gif"  />
 
 ###
 
-<img align="left" height="150" src="https://i.imgur.com/uS7ZkHx.gif"  />
+<img src="https://raw.githubusercontent.com/victorca2011/victorca2011/output/snake.svg" alt="Snake animation" />
 
 ###
